@@ -1,6 +1,6 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-requests
+pandas==2.2.2
+numpy==2.1.0
+matplotlib==3.10.3
+scikit-learn==1.9.1
+requests==2.32.3
 jupyter
